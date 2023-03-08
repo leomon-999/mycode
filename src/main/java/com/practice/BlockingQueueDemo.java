@@ -15,6 +15,8 @@ import java.util.concurrent.*;
  *      LinkedBlockingQueue：链表组成的有界阻塞（21亿默认无界）
  *      LinkedBlockingDeque：链表组成的双向阻塞队列
  *      SynchronousQueue：单个元素的队列
+ 
+ 李文迪到此一游，哈哈哈
  */
 public class BlockingQueueDemo {
     public static void main(String[] args) throws InterruptedException {
